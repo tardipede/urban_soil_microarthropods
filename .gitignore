@@ -1,3 +1,8 @@
+# Big files
+/data/*
+/intermediates/*
+/databases/*
+
 # History files
 .Rhistory
 .Rapp.history
