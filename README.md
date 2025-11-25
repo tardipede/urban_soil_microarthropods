@@ -1,7 +1,8 @@
 # Urban_soil_microarthropods
-Urban soil microarthropods metabarcoding
+
 
 ## 1) Place the raw reads files in the data folder
+Download the raw reads file from the NCBI project 
 
 ## 2) Create conda env
 ```
