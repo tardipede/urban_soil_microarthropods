@@ -1,8 +1,8 @@
 # Urban_soil_microarthropods
 
 
-## 1) Place the raw reads files in the data folder
-Download the raw reads file from the NCBI project 
+## 1) Create a folder name data and place there the raw reads files
+Download the raw reads file from the NCBI project PRJNA1369507
 
 ## 2) Create conda env
 ```
