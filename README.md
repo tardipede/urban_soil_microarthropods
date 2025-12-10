@@ -4,8 +4,8 @@
 ## 1) Create a folder name data and place there the raw reads files
 Download the raw reads file from the NCBI project PRJNA1369507
 The runs names should be downloaded with their original names, for example:  
--145055_ID3302_557-IT-210-concrete-pl6-E10-COIA_S1_L001_R1_001.fastq.gz 
--145055_ID3302_557-IT-210-concrete-pl6-E10-COIA_S1_L001_R2_001.fastq.gz 
+⋅⋅⋅⋅* 145055_ID3302_557-IT-210-concrete-pl6-E10-COIA_S1_L001_R1_001.fastq.gz 
+⋅⋅⋅⋅* 145055_ID3302_557-IT-210-concrete-pl6-E10-COIA_S1_L001_R2_001.fastq.gz 
   
 Otherwise change accordingly the *--run_regex* and  *--sample_regex* options in the *./code/000_main_script.bash* file. 
 
