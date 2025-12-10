@@ -53,3 +53,9 @@ bash ./code/000_main_script.bash
 
 ## 8) Calculate alpha diversity
 Move the "COI_soil_classified_otutab.tsv" output file to the alpha_diversity_calculations folder and run the R script in it
+
+
+
+
+[![DOI](https://zenodo.org/badge/901294411.svg)](https://doi.org/10.5281/zenodo.17877587)
+
