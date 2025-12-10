@@ -40,12 +40,14 @@ seqkit rmdup ./MIDORI2_DB_trimmed.fasta --by-seq -o ./MIDORI2_DB_trimmed_derep.f
 ```
 ## 6) Format taxonomy
 ```
+chmod +x ./*
 Rscript db_format.R
 cd ..
 ```
 
 ## 7) Run main script
 ```
+chmod +x code/*
 bash ./code/000_main_script.bash
 ```
 
