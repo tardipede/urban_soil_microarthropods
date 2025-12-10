@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+authors:
+  - family-names: Vecchi
+    given-names: Matteo
+  - family-names: Lami
+    given-names: Francesco
+year: 2025
+title: 'Metabarcoding code for the manuscript: Complex interactions between local habitat features, landscape factors and seasonality shape soil microarthropod communities in urban green areas'
+doi: 10.5281/zenodo.17877587
