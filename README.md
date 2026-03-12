@@ -1,4 +1,4 @@
-# Urban_soil_microarthropods
+# Urban soil microarthropods study scripts
 
 Data analysis scripts associated with the manuscript:
 Lami F., Zavatta L., Morelli A., Ciurli A., Bazzocchi G.G., Cavani G., Vecchi M. (2026).Complex interactions between local habitat features, landscape factors and seasonality shape soil microarthropod communities in urban green areas. *Urban Ecosystems*.
