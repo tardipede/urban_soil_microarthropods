@@ -7,8 +7,8 @@ Lami F., Zavatta L., Morelli A., Ciurli A., Bazzocchi G.G., Cavani G., Vecchi M.
 ## 1) Create a folder name data and place there the raw reads files
 Download the raw reads file from the NCBI project PRJNA1369507
 The runs names should be downloaded with their original names, for example:  
-    * 170514_ID3543_378-SIN000-COI-MET-plate4-H2_S289_L001_R1_001.fastq.gz / 170514_ID3543_378-SIN000-COI-MET-plate4-H2_S289_L001_R2_001.fastq.gz
-    * 170513_ID3543_363-SIN001-COI-MET-plate4-A1_S288_L001_R1_001.fastq.gz / 170513_ID3543_363-SIN001-COI-MET-plate4-A1_S288_L001_R2_001.fastq.gz
+    * Forward reads: 170514_ID3543_378-SIN000-COI-MET-plate4-H2_S289_L001_R1_001.fastq.gz  
+    * Reverse reads: 170514_ID3543_378-SIN000-COI-MET-plate4-H2_S289_L001_R2_001.fastq.gz  
   
 Otherwise change accordingly the *--run_regex* and  *--sample_regex* options in the *./code/000_main_script.bash* file.  
 If you use runs with different filenames, check also if changing the *--forward_reads_regex* and *--reverse_reads_regex* arguments from their default.  
